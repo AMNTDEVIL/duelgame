@@ -1,6 +1,6 @@
 # rpg1
 
-A new Flutter project.
+This is still in development process
 
 ## Getting Started
 
